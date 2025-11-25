@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Editor - defenders08</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="body">
+		<div class="header">
+			<div class="left">
+				<a href="/">[defenders08]</a>
+			</div>
+			<div class="right">
+				<a href="#">[сохранить]</a>
+				<a href="#">[статьи]</a>
+			</div>
+		</div>
+
+		<div class="content">
+			<div class="left">
+                <div class="editor">
+                	<div class="editor_res">
+                	</div>
+                	<div class="editor_btns">
+                		<button>tab</button>
+                		<button>img_little</button>
+                		<button>ссылка</button>
+                		<button>список</button>
+                		<button>tab</button>
+                		<button>tab</button>
+                		<button>tab</button>
+                	</div>
+                </div>
+            </div>
+
+			<div class="right">
+				<div class="editor_prewiew">
+					<textarea></textarea>
+                </div>
+			</div>
+		</div>
+	</div>
+
+	<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const textarea = document.querySelector(".editor_prewiew textarea");
+    const resBlock = document.querySelector(".editor_res");
+    const buttons = document.querySelectorAll(".editor_btns button");
+
+    // ====== 1. Кнопки вставляют шаблоны в textarea ======
+    buttons.forEach(btn => {
+        btn.addEventListener("click", () => {
+            let tag = btn.textContent.trim();
+
+            let insertText = "";
+
+            switch (tag) {
+                case "tab":
+                    insertText = "[tab]\n\n[/tab]";
+                    break;
+                case "img_little":
+                    insertText = "[img_little](url)Описание[/img_little]";
+                    break;
+                case "ссылка":
+                    insertText = "[a](url)Текст ссылки[/a]";
+                    break;
+                case "список":
+                    insertText = "[ul]\n[li]item[/li]\n[/ul]";
+                    break;
+                default:
+                    insertText = `[${tag}]\n\n[/${tag}]`;
+            }
+
+            // добавление в textarea
+            textarea.value += (textarea.value ? "\n" : "") + insertText;
+
+            // автообновление результата
+            parseText();
+        });
+    });
+
+    // ====== 2. Обновлять результат при вводе ======
+    textarea.addEventListener("input", () => {
+        parseText();
+    });
+
+    // ====== 3. AJAX запрос к parser.php ======
+    function parseText() {
+        const text = textarea.value;
+
+        fetch("parser.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            body: "text=" + encodeURIComponent(text)
+        })
+        .then(res => res.text())
+        .then(html => {
+            resBlock.innerHTML = html;
+        })
+        .catch(err => {
+            resBlock.innerHTML = "<b>Ошибка парсера</b><br>" + err;
+        });
+    }
+});
+</script>
+
+</body>
+</html>

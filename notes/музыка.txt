@@ -1,0 +1,170 @@
+<!-- coverflow  -->
+				<div class="coverflow">
+					<div class="title_coverflow">Музыка: Альбомы</div>
+					<div id="vinyl-gallery">
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/ru/f/fb/Crystal_CastlesA.jpeg"/>
+					  </div>
+					  <div class="title">Crystal Castles - Crystal Castles (II)</div>
+
+					  <div class="vinyl">
+					    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/25/21/be2521e9-a8eb-67ac-8b44-7f337d4237a7/888174268071.jpg/400x400cc.jpg"/>
+					  </div>
+					  <div class="title">Crim3s - Stay Ugly</div>
+
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Yeezus_album_cover.png"/>
+					  </div>
+					  <div class="title">Kanye West - Yeezus</div>
+
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/f/f8/Crystal_Castles_III.jpeg/274px-Crystal_Castles_III.jpeg"/>
+					  </div>
+					  <div class="title">Crystal Castles - Crystal Castles (III)</div>
+
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Crystal_Castles_-_Self-titled.png/220px-Crystal_Castles_-_Self-titled.png"/>
+					  </div>
+					  <div class="title">Crystal Castles - Crystal Castles (I)</div>
+
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Amnesty_%28I%29_album_cover.jpeg"/>
+					  </div>
+					  <div class="title">Crystal Castles - Amnesty (I)</div>
+
+					  <div class="vinyl">
+					    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Charli_XCX_-_Brat_%28album_cover%29.png/1200px-Charli_XCX_-_Brat_%28album_cover%29.png"/>
+					  </div>
+					  <div class="title">Charli XCX - Brat</div>
+
+					  <div class="vinyl">
+					    <img src="https://i1.sndcdn.com/artworks-000232509643-s34xfi-t500x500.jpg"/>
+					  </div>
+					  <div class="title">Summer Of Haze - Infinite</div>
+
+					  <div class="vinyl">
+					    <img src="https://cdns-images.dzcdn.net/images/cover/235cd246b946dbfcd9827850c043f47f/1900x1900-000000-80-0-0.jpg"/>
+					  </div>
+					  <div class="title">Sexy Sushi - Tu L'As Bien Mérité!</div>
+
+					  <div class="vinyl">
+					    <img src="https://images.genius.com/254e3c38835e132ea2a30334d873106f.1000x1000x1.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Афина</div>
+
+
+					  <div class="vinyl">
+					    <img src="https://i1.sndcdn.com/artworks-000281472113-e2i972-t500x500.jpg"/>
+					  </div>
+					  <div class="title">шумные и угрожающие выходки - Разговоры с бомжихами</div>
+
+					  <div class="vinyl">
+					    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b2/1b/9b/b21b9b4c-31b8-7d7d-ae02-98cc18d4f760/0.jpg/1200x1200bb.jpg"/>
+					  </div>
+					  <div class="title">шумные и угрожающие выходки - Засранцы против ГАИ</div>
+
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+					  <div class="vinyl">
+					    <img src="https://lastfm.freetls.fastly.net/i/u/500x500/7038ed90569e029e9a9c0cb88807d689.jpg"/>
+					  </div>
+					  <div class="title">Убийцы - Даная</div>
+
+					  <div class="vinyl">
+					    <img src="https://legatomusic.ru/nas/img/cdimg2/02/48/84/86.jpg"/>
+					  </div>
+					  <div class="title">Sexy Sushi - Vous N'allez Pas Repartir Les Mains Vides</div>
+					</div>
+					<div class="vinyl-end">
+					</div>
+				</div>
+				<!-- coverflow  -->
+
+[h3]
+Музыка: Shotacore
+[/h3]
+[tab]
+Shotacore (I) - 07.08 - Мягкий, приглушённый 8bit смешанный с новой искренностью. SynthPop/8bit
+[/tab]
+
+
+[tab]
+[img_little](files/img/shotacorei.png)Shotacore (I)[/img_little]
+[text]
+Треклист:
+[ul]
+[li]Саша[/li]
+[li]Я не хочу убивать людей[/li]
+[li]Спокойной ночи[/li]
+[li]Это всё сон, у тебя всё хорошо[/li]
+[li]Цикл (стртгм)[/li]
+[li]Нулевые (Убийцы)[/li]
+[li]Выбор мой, всем пока[/li]
+[li]Твоя жизнь была простой[/li]
+[li]Лучшее было[/li]
+[/ul]
+[tab][a](http://example.com)Слушать[/a] [a](http://example.com)Скачать[/a]
+[/tab]
+[tab][a](http://example.com)телеграм канал[/a] [a](http://example.com)youtube[/a] [a](http://example.com)vk[/a] [a](http://example.com)soundcloud[/a]
+[/tab]
+[/text]
+[/tab]
+[h3]
+Музыка
+[/h3]
+[tab]
+[ul]
+[li]Crystal Castles - Crystal Castles (II)[/li]
+[li]Crim3s - Stay Ugly[/li]
+[li]Kanye West - Yeezus[/li]
+[li]Crystal Castles - Crystal Castles (III)[/li]
+[li]Crystal Castles - Crystal Castles (I)[/li]
+[li]Crystal Castles - Amnesty (I)[/li]
+[li]Charli XCX - Brat[/li]
+[li]Summer Of Haze - Infinite[/li]
+[li]Sexy Sushi - Tu L'As Bien Mérité![/li]
+[li]Убийцы - Афина[/li]
+[li]шумные и угрожающие выходки - Разговоры с бомжихами[/li]
+[li]шумные и угрожающие выходки - Засранцы против ГАИ[/li]
+[li]Убийцы - Даная[/li]
+[/ul]
+[/tab]

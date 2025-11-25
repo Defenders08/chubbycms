@@ -1,0 +1,62 @@
+[tab]
+Привет, меня звать Саня aka Ash/Shotacore. Пишу музыку, наблюдаю за айти.
+Этот сайт - мой личный архив: место, где всё, что я создаю и что мне дорого, собрано вместе. Здесь можно послушать, почитать, скачать. 
+[/tab]
+[h3]
+Музыка: Shotacore
+[/h3]
+[tab]
+Shotacore (I) - 07.08 - Мягкий, приглушённый 8bit смешанный с новой искренностью. SynthPop/8bit
+[/tab]
+[tab]
+[img_little](files/img/shotacorei.png)Shotacore (I)[/img_little]
+[text]
+Треклист:
+[ul]
+[li]Саша[/li]
+[li]Я не хочу убивать людей[/li]
+[li]Спокойной ночи[/li]
+[li]Это всё сон, у тебя всё хорошо[/li]
+[li]Цикл (стртгм)[/li]
+[li]Нулевые (Убийцы)[/li]
+[li]Выбор мой, всем пока[/li]
+[li]Твоя жизнь была простой[/li]
+[li]Лучшее было[/li]
+[/ul]
+[tab][a](http://example.com)Слушать[/a] [a](http://example.com)Скачать[/a]
+[/tab]
+[tab][a](http://example.com)телеграм канал[/a] [a](http://example.com)youtube[/a] [a](http://example.com)vk[/a] [a](http://example.com)soundcloud[/a]
+[/tab]
+[/text]
+[/tab]
+
+[h3]
+Социальные сети
+[/h3]
+
+[tab]
+[ul]
+[li][a](http://example.com)телеграм канал: личный[/a][/li]
+[li][a](http://example.com)телеграм канал: музыкальный[/a][/li]
+[li][a](http://example.com)тикток[/a][/li]
+[li][a](http://example.com)openvk[/a][/li]
+[/ul]
+[/tab]
+[h3]
+Legacy проекты
+[/h3]
+[tab]
+[img_little](files/img/2025-11-12 15.40.46.jpg )Twitter23[/img_little]
+[text]
+Twitter23
+[tab]
+В июле 2021 года Я и Перри Утконос (?) начали разработку клона Twitter образца 2009 года. Я занимался вёрсткой, дизайном, придумыванием функционала
+28 ноября состоялось открытие. в июне 2022, в следствии неадекватного поведения и угроз Перри, Кирилл Заволожин, один из разработчиков Center, слил базу данных сайта, в связи с чем Twitter23 закрылся 
+[/tab]
+[tab]
+[a](http://example.com)исходный код[/a]
+[/tab]
+[/text]
+[/tab]
+
+

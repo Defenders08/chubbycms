@@ -1,0 +1,3 @@
+<?php foreach($articles_list as $a): ?>
+						<a href="/<?php echo urlencode($a); ?>"><?php echo $a; ?></a>
+					<?php endforeach; ?>
